@@ -1,5 +1,6 @@
-# 🎃 🎯   HacktoberFest 2021  🎃🎯 
+# 🎃 🎯   @HacktoberFest 2021  🎃🎯 
 # Make your first Pull Request and earn a free T-shirt 👕👕 from GitHub!
+
 # Star & fork this Repo first
 ![Hacktoberfest 2021](hacktober.jpg)
 ## All valid PRs will be merged or suitable tags like hacktober-accepted will be given 
@@ -11,7 +12,8 @@ Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting in
 This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
 
 ## What is Hacktoberfest?
-A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
+A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). 
+Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
 
 [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
@@ -28,7 +30,7 @@ Here are 3 quick and painless ways to contribute to this project:
 2) Copy the template and write hacktoberfest in your language
 3) Make a pull request
 4) Wait until your pull request is merged
-## Enjoy , You have made it
+## Enjoy , You have made it happy.
 
 ## Getting started
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
