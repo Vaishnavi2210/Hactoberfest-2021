@@ -32,6 +32,8 @@ Here are 3 quick and painless ways to contribute to this project:
 4) Wait until your pull request is merged
 ## Enjoy , You have made it happy.
 
+### Thank You!
+
 ## Getting started
 
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
